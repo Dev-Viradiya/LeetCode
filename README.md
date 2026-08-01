@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
@@ -39,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Viradiya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
