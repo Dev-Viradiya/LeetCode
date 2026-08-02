@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -53,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
