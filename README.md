@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Dev-Viradiya/LeetCode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
