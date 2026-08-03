@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -57,8 +60,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Dev-Viradiya/LeetCode/tree/master/1791-find-center-of-star-graph) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
