@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Dev-Viradiya/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
