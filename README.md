@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Dev-Viradiya/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Dev-Viradiya/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Geometry
