@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1406-stone-game-iii) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Dev-Viradiya/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Dev-Viradiya/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dev-Viradiya/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev-Viradiya/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev-Viradiya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
