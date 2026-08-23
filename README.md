@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dev-Viradiya/LeetCode/tree/master/0049-group-anagrams) |
 | [2000-reverse-prefix-of-word](https://github.com/Dev-Viradiya/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Viradiya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dev-Viradiya/LeetCode/tree/master/0049-group-anagrams) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Dev-Viradiya/LeetCode/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev-Viradiya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Viradiya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dev-Viradiya/LeetCode/tree/master/0049-group-anagrams) |
 | [0486-predict-the-winner](https://github.com/Dev-Viradiya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dev-Viradiya/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Dev-Viradiya/LeetCode/tree/master/1140-stone-game-ii) |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dev-Viradiya/LeetCode/tree/master/0049-group-anagrams) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev-Viradiya/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev-Viradiya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dev-Viradiya/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
