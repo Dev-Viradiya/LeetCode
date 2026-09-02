@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dev-Viradiya/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dev-Viradiya/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Dev-Viradiya/LeetCode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Dev-Viradiya/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Dev-Viradiya/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Geometry
 |  |
 | ------- |
